@@ -1,0 +1,2761 @@
+INFO - 2024-12-04 14:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-04 14:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-04 14:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-04 14:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:05:29 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:05:33 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:05:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:05:36 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:05:43 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:05:45 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:06:04 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:06:06 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:06:23 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:06:26 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:06:41 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:06:43 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:07:17 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:07:18 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:07:20 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:07:26 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:07:29 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:07:44 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:07:46 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:07:49 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:08:01 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:08:06 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:08:28 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:08:31 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:08:33 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:09:14 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:09:17 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:09:22 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:09:25 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:09:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:09:30 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:12:41 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:12:44 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:13:29 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:13:37 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:15:24 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:15:33 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:25:10 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:25:15 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:25:32 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:25:58 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:26:03 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:26:07 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:26:18 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 14:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 14:27:00 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-04 17:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-04 17:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-04 17:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:56:11 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:00 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:08 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:10 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:17 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:19 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:30 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:35 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:37 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:40 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:55 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:57:58 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:59:00 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:59:16 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 17:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 17:59:44 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 18:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 18:00:03 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 18:00:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 18:00:10 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 18:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 18:00:14 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 22:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-04 22:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-04 22:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-04 22:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 22:48:11 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 22:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 22:48:16 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+
+INFO - 2024-12-04 22:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-12-04 22:48:19 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => EUCARE
+            [FirstName] => JONATHAN
+            [MiddleName] => S.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => Administrator
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => Administrator
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-11-29 18:52:45
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => BELICAN 
+            [FirstName] => LEAH
+            [MiddleName] => M.
+            [region] => REGION XII
+            [province] => SOUTH COTABATO
+            [municipality] => LAKE SEBU
+            [barangay] => POBLACION
+            [Username] => RegisteredNurse
+            [Password] => $2y$10$PJ0QeEqyRfG6DFocNwxPv.CHrdcjSz/BAVUjl3BF2e9h.wuVCOu5S
+            [PhoneNumber] => 09455281147
+            [Role] => Registered Nurse
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-11-30 12:46:32
+        )
+
+)
+

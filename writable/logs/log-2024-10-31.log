@@ -1,0 +1,962 @@
+INFO - 2024-10-31 18:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 18:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-31 18:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 18:09:25 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 18:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 18:09:35 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 18:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 18:09:37 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 18:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 18:12:30 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 18:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 18:23:58 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 18:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 18:24:19 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 18:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 18:24:22 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 18:26:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 18:26:09 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 18:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 18:27:07 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 18:29:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 18:29:54 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 19:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 19:54:17 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-31 19:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-31 19:54:20 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => dancer
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => coach
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => administrator
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+

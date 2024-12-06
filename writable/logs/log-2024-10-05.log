@@ -1,0 +1,796 @@
+CRITICAL - 2024-10-05 23:49:07 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(33): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 23:49:23 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(33): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 23:49:58 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(33): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 23:50:01 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(33): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 23:51:23 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(33): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 23:51:43 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(33): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 23:51:54 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(33): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 23:52:00 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(33): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 23:52:57 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(33): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 23:53:39 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(33): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-05 23:53:56 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(32): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-05 23:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-05 23:54:35 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-09-30 21:38:34
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+WARNING - 2024-10-05 23:54:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\BackupController::$session is deprecated in APPPATH\Controllers\BackupController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\BackupController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-10-05 23:54:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\BackupController::$db is deprecated in APPPATH\Controllers\BackupController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\BackupController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-05 23:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-05 23:54:36 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-09-30 21:38:34
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-05 23:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-05 23:54:37 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-09-30 21:38:34
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+CRITICAL - 2024-10-05 23:54:37 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::whereNotNull
+[Method: GET, Route: archive]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\ArchiveController.php(29): CodeIgniter\Model->__call('whereNotNull', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-05 23:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-05 23:55:34 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-09-30 21:38:34
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+CRITICAL - 2024-10-05 23:55:34 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Builder::whereNotNull()
+[Method: GET, Route: archive]
+in APPPATH\Controllers\ArchiveController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-05 23:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-05 23:55:57 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-09-30 21:38:34
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+CRITICAL - 2024-10-05 23:55:57 --> ErrorException: Undefined variable $StudentBackupCount
+[Method: GET, Route: archive]
+in APPPATH\Views\archive\index.php on line 25.
+ 1 APPPATH\Views\archive\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $StudentBackupCount', 'C:\\xampp\\htdocs\\SchoolIDSystem\\app\\Views\\archive\\index.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\SchoolIDSystem\\app\\Views\\archive\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('archive/index', [], true)
+ 5 APPPATH\Controllers\ArchiveController.php(53): view('archive/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ArchiveController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArchiveController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-05 23:57:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-05 23:57:10 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-09-30 21:38:34
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-05 23:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-05 23:57:32 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-09-30 21:38:34
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-05 23:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-05 23:57:43 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-09-30 21:38:34
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-05 23:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-05 23:57:50 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-09-30 21:38:34
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+

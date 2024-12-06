@@ -1,0 +1,1825 @@
+INFO - 2024-10-29 16:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 17:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:51:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:53:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:54:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 22:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-29 22:54:41 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'schoolinfosyste...', 3306, '', 0)
+#1 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\DanceWorkShop\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\DanceWorkShop\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\DanceWorkShop\app\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+#8 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+#9 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\DanceWorkShop\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\DanceWorkShop\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\DanceWorkShop\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\xampp\htdocs\DanceWorkShop\app\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+#6 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+#7 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+#8 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\DanceWorkShop\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-29 22:54:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: POST, Route: login]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user_tbl`
+WHERE `Username` = :Username:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-29 22:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-29 22:54:49 --> Error connecting to the database: ErrorException: mysqli::real_connect(): Error while reading greeting packet. PID=16296 in C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\xampp\\htdocs...', 186)
+#1 C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'schoolinfosyste...', 3306, '', 0)
+#2 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\xampp\htdocs\DanceWorkShop\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\DanceWorkShop\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\xampp\htdocs\DanceWorkShop\app\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+#8 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+#9 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+#10 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\DanceWorkShop\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'schoolinfosyste...', 3306, '', 0)
+#1 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\DanceWorkShop\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\DanceWorkShop\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\DanceWorkShop\app\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+#8 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+#9 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\DanceWorkShop\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\DanceWorkShop\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\DanceWorkShop\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\xampp\htdocs\DanceWorkShop\app\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+#6 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+#7 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+#8 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\DanceWorkShop\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-29 22:54:49 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+[Method: POST, Route: login]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user_tbl`
+WHERE `Username` = :Username:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-29 22:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-29 22:54:59 --> Error connecting to the database: ErrorException: mysqli::real_connect(): Error while reading greeting packet. PID=16296 in C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', 'C:\\xampp\\htdocs...', 186)
+#1 C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'schoolinfosyste...', 3306, '', 0)
+#2 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\xampp\htdocs\DanceWorkShop\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\DanceWorkShop\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#7 C:\xampp\htdocs\DanceWorkShop\app\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+#8 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+#9 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+#10 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\DanceWorkShop\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'schoolinfosyste...', 3306, '', 0)
+#1 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\DanceWorkShop\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\DanceWorkShop\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\DanceWorkShop\app\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+#8 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+#9 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\DanceWorkShop\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\DanceWorkShop\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\DanceWorkShop\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\xampp\htdocs\DanceWorkShop\app\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+#6 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+#7 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+#8 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\DanceWorkShop\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-29 22:54:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+[Method: POST, Route: login]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user_tbl`
+WHERE `Username` = :Username:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-29 23:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 23:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-29 23:11:14 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'schoolinfosystem' in C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'schoolinfosyste...', 3306, '', 0)
+#1 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\DanceWorkShop\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\DanceWorkShop\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\DanceWorkShop\app\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+#8 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+#9 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\DanceWorkShop\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'schoolinfosystem' in C:\xampp\htdocs\DanceWorkShop\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\DanceWorkShop\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\DanceWorkShop\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\DanceWorkShop\system\BaseModel.php(714): CodeIgniter\Model->doFirst()
+#5 C:\xampp\htdocs\DanceWorkShop\app\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+#6 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+#7 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+#8 C:\xampp\htdocs\DanceWorkShop\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\DanceWorkShop\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\DanceWorkShop\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-29 23:11:14 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'schoolinfosystem'
+[Method: POST, Route: login]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `user_tbl`
+WHERE `Username` = :Username:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(714): CodeIgniter\Model->doFirst()
+ 5 APPPATH\Controllers\AuthenticationController.php(51): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthenticationController->login()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthenticationController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-29 23:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-29 23:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:11:39 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+CRITICAL - 2024-10-29 23:11:39 --> Error: Class "App\Models\StudentModel" not found
+[Method: GET, Route: dashboard]
+in APPPATH\Controllers\Home.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-29 23:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:12:05 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+CRITICAL - 2024-10-29 23:12:05 --> ErrorException: Undefined variable $studentCounts
+[Method: GET, Route: dashboard]
+in APPPATH\Views\dashboard.php on line 29.
+ 1 APPPATH\Views\dashboard.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studentCounts', 'C:\\xampp\\htdocs\\DanceWorkShop\\app\\Views\\dashboard.php', 29)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\DanceWorkShop\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\Home.php(35): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-29 23:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:12:51 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:13:01 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:13:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:13:02 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:13:08 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:20:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:20:36 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:25:07 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+CRITICAL - 2024-10-29 23:25:07 --> ErrorException: include(layout/partials/navbar.php): Failed to open stream: No such file or directory
+[Method: GET, Route: activitylogs]
+in APPPATH\Views\layout\header.php on line 75.
+ 1 APPPATH\Views\layout\header.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(layout/partials/navbar.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\DanceWorkShop\\app\\Views\\layout\\header.php', 75)
+ 2 APPPATH\Views\layout\header.php(75): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\DanceWorkShop\\app\\Views\\layout\\header.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('layout/header', [], true)
+ 6 APPPATH\Controllers\ActivityLogsController.php(32): view('layout/header', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ActivityLogsController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ActivityLogsController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-29 23:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:25:19 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:28:48 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:29:03 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:29:47 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:36:13 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:37:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:37:20 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:37:23 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:37:23 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:47:55 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:47:55 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+
+INFO - 2024-10-29 23:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-29 23:59:45 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SANTOS
+            [FirstName] => JACK
+            [MiddleName] => SMITH
+            [Username] => Admin
+            [Password] => $2y$10$/5wdg4M6tPIrt.lUYOY4nOV/cgAA5.ebJwJyEutpBKr2L22t4n9gu
+            [PhoneNumber] => 09462698249
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-28 22:06:56
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => DELA CRUZ
+            [FirstName] => JUAN
+            [MiddleName] => DEO
+            [Username] => Admin123
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09082297153
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-27 10:54:07
+            [Updated_at] => 2024-10-28 21:54:08
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 4
+            [LastName] => SMITH
+            [FirstName] => JOHN
+            [MiddleName] => A.
+            [Username] => admin_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 09846345632
+            [Role] => 1
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:00:58
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 5
+            [LastName] => DOE
+            [FirstName] => JANE
+            [MiddleName] => B.
+            [Username] => registrar_user
+            [Password] => $2y$10$hOQ8OSp3uizFQT9Whbsyp.gwYrluNvUrUaUxYoc6tF0LsMLmVy0zG
+            [PhoneNumber] => 09876543211
+            [Role] => 2
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:01:45
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 6
+            [LastName] => BROWN
+            [FirstName] => MIKE
+            [MiddleName] => C.
+            [Username] => teacher_user
+            [Password] => $2y$10$fa.x7rYoYwL7C0Ry1b6UyeqA25Rv/AkFlzRrrzzrmRCui5YTEZUR2
+            [PhoneNumber] => 56789012341
+            [Role] => 3
+            [Status] => 1
+            [Created_at] => 2024-10-28 21:59:45
+            [Updated_at] => 2024-10-28 22:02:00
+        )
+
+)
+

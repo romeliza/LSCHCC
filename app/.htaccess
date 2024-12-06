@@ -1,0 +1,15 @@
+<IfModule authz_core_module>
+    # Allow access to everyone
+    Require all granted
+</IfModule>
+
+<IfModule !authz_core_module>
+    # Allow access to everyone (for older Apache versions)
+    Order Allow,Deny
+    Allow from all
+</IfModule>
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, POST, OPTIONS"
+    Header set Access-Control-Allow-Headers "Content-Type"
+</IfModule>

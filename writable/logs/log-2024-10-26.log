@@ -1,0 +1,3217 @@
+INFO - 2024-10-26 21:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:40:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:40:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 21:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:40:21 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:40:52 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:40:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:40:55 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:40:57 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:45:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:45:28 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:45:29 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:47:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:47:19 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:49:33 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:49:47 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:52:51 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:53:12 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:53:20 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:53:29 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:57:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:57:13 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:57:42 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 21:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 21:59:39 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:00:14 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:03:28 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:03:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:03:55 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:04:23 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:04:23 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:05:13 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:17:22 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+ERROR - 2024-10-26 22:22:36 --> mysqli_sql_exception: Invalid default value for 'Created_at' in C:\xampp\htdocs\SchoolInformationSystem\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\SchoolInformationSystem\system\Database\MySQLi\Connection.php(312): mysqli->query('CREATE TABLE `a...', 0)
+#1 C:\xampp\htdocs\SchoolInformationSystem\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `a...')
+#2 C:\xampp\htdocs\SchoolInformationSystem\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `a...')
+#3 C:\xampp\htdocs\SchoolInformationSystem\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `a...')
+#4 C:\xampp\htdocs\SchoolInformationSystem\app\Database\Migrations\2024-10-26-142153_CreateActivityLogsTable.php(39): CodeIgniter\Database\Forge->createTable('activity_logs')
+#5 C:\xampp\htdocs\SchoolInformationSystem\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateActivityLogsTable->up()
+#6 C:\xampp\htdocs\SchoolInformationSystem\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\xampp\htdocs\SchoolInformationSystem\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\xampp\htdocs\SchoolInformationSystem\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\xampp\htdocs\SchoolInformationSystem\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\xampp\htdocs\SchoolInformationSystem\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\xampp\htdocs\SchoolInformationSystem\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\xampp\htdocs\SchoolInformationSystem\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+INFO - 2024-10-26 22:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:32:54 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 22:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 22:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:32:59 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:44:11 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:44:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:44:13 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:44:46 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:44:56 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:45:23 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:45:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:45:34 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:45:48 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:45:59 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:52:19 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 22:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:58:46 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+ERROR - 2024-10-26 22:58:46 --> mysqli_sql_exception: Unknown column 'users.UserID' in 'on clause' in C:\xampp\htdocs\SchoolInformationSystem\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\SchoolInformationSystem\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `activit...', 0)
+#1 C:\xampp\htdocs\SchoolInformationSystem\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `activit...')
+#2 C:\xampp\htdocs\SchoolInformationSystem\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `activit...')
+#3 C:\xampp\htdocs\SchoolInformationSystem\system\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `activit...', Array, false)
+#4 C:\xampp\htdocs\SchoolInformationSystem\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\SchoolInformationSystem\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\SchoolInformationSystem\app\Models\ActivityLogModel.php(24): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\SchoolInformationSystem\app\Controllers\ActivityLogsController.php(21): App\Models\ActivityLogModel->getActivityLogsWithUsers()
+#8 C:\xampp\htdocs\SchoolInformationSystem\system\CodeIgniter.php(933): App\Controllers\ActivityLogsController->index()
+#9 C:\xampp\htdocs\SchoolInformationSystem\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ActivityLogsController))
+#10 C:\xampp\htdocs\SchoolInformationSystem\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\SchoolInformationSystem\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\SchoolInformationSystem\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\SchoolInformationSystem\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-10-26 22:58:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'users.UserID' in 'on clause'
+[Method: GET, Route: activitylogs]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `activity_logs`.*, `user_tbl`.`FirstName`, `user_tbl`.`LastName`, `user_tbl`.`MiddleName`
+FROM `activity_logs`
+JOIN `user_tbl` ON `users`.`UserID` = `activity_logs`.`UserID`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\ActivityLogModel.php(24): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\ActivityLogsController.php(21): App\Models\ActivityLogModel->getActivityLogsWithUsers()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ActivityLogsController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ActivityLogsController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-26 22:58:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'users.UserID' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `activity_logs`.*, `user_tbl`.`FirstName`, `user_tbl`.`LastName`, `user_tbl`.`MiddleName`
+FROM `activity_logs`
+JOIN `user_tbl` ON `users`.`UserID` = `activity_logs`.`UserID`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `activity_logs`.*, `user_tbl`.`FirstName`, `user_tbl`.`LastName`, `user_tbl`.`MiddleName`
+FROM `activity_logs`
+JOIN `user_tbl` ON `users`.`UserID` = `activity_logs`.`UserID`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `activity_logs`.*, `user_tbl`.`FirstName`, `user_tbl`.`LastName`, `user_tbl`.`MiddleName`
+FROM `activity_logs`
+JOIN `user_tbl` ON `users`.`UserID` = `activity_logs`.`UserID`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\ActivityLogModel.php(24): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\ActivityLogsController.php(21): App\Models\ActivityLogModel->getActivityLogsWithUsers()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ActivityLogsController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ActivityLogsController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-26 22:58:46 --> [Caused by] mysqli_sql_exception: Unknown column 'users.UserID' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `activity_logs`.*, `user_tbl`.`FirstName`, `user_tbl`.`LastName`, `user_tbl`.`MiddleName`
+FROM `activity_logs`
+JOIN `user_tbl` ON `users`.`UserID` = `activity_logs`.`UserID`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `activity_logs`.*, `user_tbl`.`FirstName`, `user_tbl`.`LastName`, `user_tbl`.`MiddleName`
+FROM `activity_logs`
+JOIN `user_tbl` ON `users`.`UserID` = `activity_logs`.`UserID`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `activity_logs`.*, `user_tbl`.`FirstName`, `user_tbl`.`LastName`, `user_tbl`.`MiddleName`
+FROM `activity_logs`
+JOIN `user_tbl` ON `users`.`UserID` = `activity_logs`.`UserID`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1644): CodeIgniter\Database\BaseConnection->query('SELECT `activity_logs`.*, `user_tbl`.`FirstName`, `user_tbl`.`LastName`, `user_tbl`.`MiddleName`
+FROM `activity_logs`
+JOIN `user_tbl` ON `users`.`UserID` = `activity_logs`.`UserID`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\ActivityLogModel.php(24): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\ActivityLogsController.php(21): App\Models\ActivityLogModel->getActivityLogsWithUsers()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ActivityLogsController->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ActivityLogsController))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-26 22:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:58:56 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+CRITICAL - 2024-10-26 22:58:56 --> ErrorException: Attempt to read property "LastName" on array
+[Method: GET, Route: activitylogs]
+in APPPATH\Views\activitylogs\index.php on line 71.
+ 1 APPPATH\Views\activitylogs\index.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "LastName" on array', 'C:\\xampp\\htdocs\\SchoolInformationSystem\\app\\Views\\activitylogs\\index.php', 71)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\SchoolInformationSystem\\app\\Views\\activitylogs\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('activitylogs/index', [], true)
+ 5 APPPATH\Controllers\ActivityLogsController.php(29): view('activitylogs/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ActivityLogsController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ActivityLogsController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-26 22:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:59:21 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+CRITICAL - 2024-10-26 22:59:21 --> ErrorException: Undefined property: stdClass::$Activity
+[Method: GET, Route: activitylogs]
+in APPPATH\Views\activitylogs\index.php on line 72.
+ 1 APPPATH\Views\activitylogs\index.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$Activity', 'C:\\xampp\\htdocs\\SchoolInformationSystem\\app\\Views\\activitylogs\\index.php', 72)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\SchoolInformationSystem\\app\\Views\\activitylogs\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('activitylogs/index', [], true)
+ 5 APPPATH\Controllers\ActivityLogsController.php(29): view('activitylogs/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ActivityLogsController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ActivityLogsController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-26 22:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 22:59:53 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:00:29 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:00:39 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:03:13 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:05:34 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:06:02 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:07:58 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+CRITICAL - 2024-10-26 23:07:58 --> ErrorException: Undefined property: stdClass::$LastName
+[Method: GET, Route: activitylogs]
+in APPPATH\Views\activitylogs\index.php on line 71.
+ 1 APPPATH\Views\activitylogs\index.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$LastName', 'C:\\xampp\\htdocs\\SchoolInformationSystem\\app\\Views\\activitylogs\\index.php', 71)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\SchoolInformationSystem\\app\\Views\\activitylogs\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('activitylogs/index', [], true)
+ 5 APPPATH\Controllers\ActivityLogsController.php(30): view('activitylogs/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ActivityLogsController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ActivityLogsController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-26 23:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:09:19 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:09:23 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:09:29 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:09:31 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => 
+            [FirstName] => 
+            [MiddleName] => 
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:09:47 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:09:49 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:10:08 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:11:49 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:11:51 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:11:52 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:12:03 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:18:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:18:56 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:19:31 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:04 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:14 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => Carandang
+            [FirstName] => John
+            [MiddleName] => Dema
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 22:04:23
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:14 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:14
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:18 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:14
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:20 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => Dema
+            [FirstName] => John
+            [MiddleName] => Doe
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 21:40:17
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:14
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:20 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => ASDASD
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:20
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:14
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:28 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => ASDASD
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:20
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:14
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:32 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => ASDASD
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:20
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:14
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:32 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:14
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:35 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:14
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:37 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:14
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:37 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:37
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:20:40 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:37
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:22:35 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:37
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:22:37 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:37
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:22:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:22:39 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:37
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:22:40 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:20:37
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:22:40 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:22:40
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:22:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:22:42 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:22:40
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:22:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:22:56 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:22:40
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:26:24 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:22:40
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:26:25 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:22:40
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:26:27 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 1
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:22:40
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:26:27 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:26:28 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:28:39 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:33:42 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:33:42 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:33:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:34:50 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:34:51 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:34:54 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:35:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:35:10 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:35:19 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:48:06 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:48:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:48:17 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:48:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:48:39 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:48:41 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:59:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:59:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-26 23:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:59:22 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-26 23:59:23 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 1
+            [LastName] => SDSWASA
+            [FirstName] => JOHN
+            [MiddleName] => DOE
+            [Username] => Admin
+            [Password] => $2y$10$Wf/C89ZwK4LQylT.eKOpOeKM490R4Q3qj1JIFW8gcNAus/V6Bmbf.
+            [PhoneNumber] => 09355580364
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-10-26 23:20:32
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 2
+            [LastName] => CARSSSSDSSSS
+            [FirstName] => JOHN
+            [MiddleName] => DEMA
+            [Username] => John123
+            [Password] => $2y$10$ndgXREMGGcC0pnYFSPvsweS8AyVtzN3/XVGz89emzcIGSAd552dRm
+            [PhoneNumber] => 09082297153
+            [Status] => 0
+            [Created_at] => 2024-10-26 22:04:23
+            [Updated_at] => 2024-10-26 23:26:27
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-26 23:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

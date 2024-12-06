@@ -1,0 +1,5841 @@
+INFO - 2024-10-07 00:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-07 00:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-07 00:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-07 00:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 00:31:55 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 00:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 00:31:57 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 00:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 00:31:58 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 01:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 01:11:08 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 13:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-07 13:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-07 13:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:38:01 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 13:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:38:03 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 13:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:38:04 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 13:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:38:07 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 13:38:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:38:09 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+CRITICAL - 2024-10-07 13:38:09 --> ErrorException: Undefined variable $teacherDetails
+[Method: GET, Route: teacher/add]
+in APPPATH\Views\teacher\add.php on line 68.
+ 1 APPPATH\Views\teacher\add.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $teacherDetails', 'C:\\xampp\\htdocs\\SchoolIDSystem\\app\\Views\\teacher\\add.php', 68)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\SchoolIDSystem\\app\\Views\\teacher\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('teacher/add', [], true)
+ 5 APPPATH\Controllers\TeacherController.php(78): view('teacher/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TeacherController->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeacherController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-07 13:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:38:38 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 13:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:39:02 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 13:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:39:03 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 13:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:39:06 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 13:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:39:14 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 13:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 13:39:14 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:24:59 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:25:01 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:25:02 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:25:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:25:03 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:25:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:25:04 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:29:06 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:29:12 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:29:13 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:29:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:29:13 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:33:24 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:53:55 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:53:55 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:53:58 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:53:58 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:53:59 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:53:59 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:54:00 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:54:00 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:54:01 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:54:01 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:54:04 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:54:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:54:09 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:54:51 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:55:09 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:55:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:55:13 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:55:20 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:55:26 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:55:54 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:55:55 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:56:01 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:56:01 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:56:07 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:58:22 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:58:29 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:58:35 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:58:45 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:58:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:58:53 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:59:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:59:27 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:59:36 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 14:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 14:59:50 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:00:01 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:00:08 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:00:23 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:00:29 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:00:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:00:34 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:00:40 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:02:13 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:02:22 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:02:30 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:02:43 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:02:49 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:02:57 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:04:13 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:22:24 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:22:31 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:22:40 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:22:59 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:23:40 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:23:47 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:24:38 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:24:53 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:25:06 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:25:59 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:26:47 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:27:01 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:27:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:27:12 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
+INFO - 2024-10-07 15:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-10-07 15:27:18 --> User Data: Array
+(
+    [0] => stdClass Object
+        (
+            [UserID] => 40
+            [Username] => ADMIN
+            [Password] => $2y$10$jVfIcD3jEZkfXzVbtjGuX.HbA1rH4pm2DYZRn/D.GRPPrG0AxN1D6
+            [Status] => 1
+            [Created_at] => 2024-08-04 16:45:51
+            [Updated_at] => 2024-09-14 19:04:25
+            [Deleted_at] => 
+        )
+
+    [1] => stdClass Object
+        (
+            [UserID] => 47
+            [Username] => john132a
+            [Password] => LhJ67RmKqxxHPJjMcwtk9VJyRGhtNFhhZ1FYbEViK2pRV0M5SVE9PQ==
+            [Status] => 1
+            [Created_at] => 2024-08-05 08:42:34
+            [Updated_at] => 2024-09-10 11:47:04
+            [Deleted_at] => 
+        )
+
+    [2] => stdClass Object
+        (
+            [UserID] => 48
+            [Username] => KLOG1
+            [Password] => $2y$10$YQU7YplkMRZByzMk/.ujA.93/rqWAtAQZSZ9b2/inTWcQ2HWv4Nt6
+            [Status] => 1
+            [Created_at] => 2024-08-19 04:56:12
+            [Updated_at] => 2024-10-06 13:49:12
+            [Deleted_at] => 
+        )
+
+    [3] => stdClass Object
+        (
+            [UserID] => 49
+            [Username] => ss
+            [Password] => $2y$10$//waeizylBeB1l9cTBViOul1/jztUWFisS4YbveiYiIOjjPv/F/aO
+            [Status] => 1
+            [Created_at] => 2024-09-04 18:23:59
+            [Updated_at] => 2024-09-10 11:47:02
+            [Deleted_at] => 
+        )
+
+    [4] => stdClass Object
+        (
+            [UserID] => 51
+            [Username] => wed
+            [Password] => $2y$10$wzJNtuJOHZnR6Ec8Ryr1ou8Sc5TgMWl8LegGPpt23HIQHrPqR334i
+            [Status] => 1
+            [Created_at] => 2024-09-07 12:05:11
+            [Updated_at] => 2024-09-10 11:47:15
+            [Deleted_at] => 
+        )
+
+    [5] => stdClass Object
+        (
+            [UserID] => 52
+            [Username] => asdsd
+            [Password] => $2y$10$Li.flGIGJlqgMzWO/V1BO.isoTjILjCLv3Niz5eSIL6xhh9orJx5q
+            [Status] => 1
+            [Created_at] => 2024-09-07 14:11:28
+            [Updated_at] => 2024-09-10 11:46:56
+            [Deleted_at] => 
+        )
+
+)
+
